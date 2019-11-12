@@ -1,0 +1,83 @@
+{
+
+
+"Admin":{
+
+
+"Register A New Admin" : "register/register/Admin",
+
+"Site Details" : {
+
+	"Show Accounts" : "admin/allaccsbefore",
+	"separator" : "<br>"
+
+},
+
+"Send Notification" : "admin/sendNoti",
+
+
+
+
+"Logout" : "register/logout"
+	
+},
+
+"Provider":{
+
+
+
+
+	"Advertisements" : {
+		"New Advertisement" : "advertisements/choose",
+		"separator" : "<br>",
+		"My Advertisements<br>" : "advertisements",
+		"Confirmed advertisements" : "advertisements/ShowConfirmRequests"
+	},
+
+	"Requests" : {
+		"Confirmed requests<br>" : "requests/ShowConfirmRequests",
+		"Completed requests" : "requests/FinishedRequests"
+
+	},
+
+	"Logout" : "register/logout"
+	
+},
+
+"Customer":{
+
+
+
+	"Advertisements" : {
+		"Confirmed advertisements" : "advertisements/ShowConfirmRequests"
+	}, 
+
+	"Requests" : {
+		"New request" : "requests/add",
+		"separator" : "<br>",
+		"My Requests<br>" : "requests",
+		"Confirmed request<br>" : "requests/ShowConfirmRequests",
+		"Completed requests" : "requests/FinishedRequests"
+
+	},
+
+
+	"Logout" : "register/logout"
+
+},
+
+"Guest":{
+
+	"Register" : {
+		"Customer" : "register/register/Customer",
+		"separator" : "<br>",
+		"Provider " : "register/register/Provider"
+	},
+
+
+
+	"Login" : "register/login"
+
+}
+
+}

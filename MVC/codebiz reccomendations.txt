@@ -1,0 +1,25 @@
+add, request, account eke edit delete view eka athulata danna one
+
+view hodata hadanna
+
+delete and edit account ekata conferm page ekak with password
+
+table clean krnna
+
+validation uncomment krnna
+
+pop up msg danna
+
+schedule providers
+
+ratings
+
+JS walin advertisements/request wala back button 1 hadanna oone.
+
+JS walin request kalama anith providerlage accept button eka disable karanna  hadanna oone.
+
+OOP principle balanna(observer observable)
+ida madi unama pirenne nathi nisa databases clean karanna system 1k hadanna.
+
+
+

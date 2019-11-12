@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+  	<script >
+
+  						var foo = {
+									a: 42
+								  };
+									// create `bar` and link it to `foo`
+									var bar = Object.create( foo );
+									bar.b = "hello world";
+									foo.b = "helllllllo world";
+									console.log(bar.b); // "hello world"
+									console.log(bar.a);
+									console.log(foo.a);
+									console.log(foo.b); // 42 <-- delegated to `foo`
+  	</script>
+  </head>
+  </html>
